@@ -8,3 +8,11 @@
 3. View a specific post ![image](https://github.com/thanhhuu09/blog-web/assets/58838162/4ce49a3e-5933-42eb-a784-09dd274f4664)
 
 # How to run
+
+- Step 1. Create a folder that you want to clone into it.
+- Step 2. Clone project: $ git clone https://github.com/thanhhuu09/blog-web.git
+- Step 3: Import MySQL Database which is inside /database/Blogdb to MySQL Workbench
+- Step 4. Open 2 Git Bash.
+	- 1. cd to client folder: $ yarn
+	- 2. cd to the API folder: $ yarn. 
+  - 3. Finally, type $ yarn start in both client and API folders.
