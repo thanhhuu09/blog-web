@@ -15,27 +15,27 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="link">
-          <Link className="link" to="/?cat=art">
+          <Link className="link cat" to="/?cat=art">
             <h6>ART</h6>
           </Link>
 
-          <Link className="link" to="/?cat=science">
+          <Link className="link cat" to="/?cat=science">
             <h6>SCIENCE</h6>
           </Link>
 
-          <Link className="link" to="/?cat=technology">
+          <Link className="link cat" to="/?cat=technology">
             <h6>TECHNOLOGY</h6>
           </Link>
 
-          <Link className="link" to="/?cat=cinema">
+          <Link className="link cat" to="/?cat=cinema">
             <h6>CINEMA</h6>
           </Link>
 
-          <Link className="link" to="/?cat=design">
+          <Link className="link cat" to="/?cat=design">
             <h6>DESIGN</h6>
           </Link>
 
-          <Link className="link" to="/?cat=food">
+          <Link className="link cat" to="/?cat=food">
             <h6>FOOD</h6>
           </Link>
 
